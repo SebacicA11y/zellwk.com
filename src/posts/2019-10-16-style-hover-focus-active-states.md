@@ -74,7 +74,7 @@ Here are a few important points to note:
 
 For focus, we're more concerned about users tabbing into elements than clicking on elements. 
 
-When a user hits tab, they don't know where the focus will go to. They can only guess. This is why **we need a prominent change a user's attention attention to the focused element**.
+When a user hits tab, they don't know where the focus will go to. They can only guess. This is why **we need a prominent change in the user's attention to the focused element**.
 
 The default focus style is okay most of the time. If you want to [design your own focus][2], think about these four things: 
 
